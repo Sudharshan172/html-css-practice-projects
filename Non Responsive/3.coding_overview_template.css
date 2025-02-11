@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(202, 215, 227);
+
+}
+
+.bg-container{
+    height: 75vh;
+    width: 45vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.content{
+    height: 25vh;
+    width:30vh ;
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+
+    border: solid;
+    border-width: 4px;
+    border-color: #48ee59;
+
+    padding: 20px;
+    
+   
+    
+}
+
+

@@ -1,0 +1,130 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    
+}
+.bg-container{
+    height: 74vh;
+    width: 50vh;
+    border: 5px solid #0967d219;
+}
+
+.section1{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+.image1{
+    height: 70px;
+    width: 100px;
+}
+.know-more-button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    background-color: #0967d2;
+    margin-top: 12px;
+}
+
+.section2{
+    background-color: skyblue;
+    border-radius: 15px;
+    margin: 8px;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.image2{
+    height:60px ;
+    width: 80px;
+    margin-right: 15px;
+}
+
+
+.symptoms{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box1{
+    background-color: #3ebd93;
+    height: 80px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box2{
+    background-color: #e668a7;
+    height: 80px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.box3{
+    background-color: #a368fc;
+    height: 80px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+}
+.symptoms-images{
+    height: 50%;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.section4{
+    background-color: #e12d3919;
+    border-radius: 10px;
+    margin: 8px;
+   
+}
+.bottom-section{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.bottom-image{
+    height: 40px;
+    width: 50px;
+    margin: 10px;
+}
+.watch-videos-button{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: #0967d2;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}

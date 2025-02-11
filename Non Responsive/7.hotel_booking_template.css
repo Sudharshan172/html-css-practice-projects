@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(202, 215, 227);
+}
+
+.bg-container{
+    height: 75vh;
+    width: 40vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.inside-content{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.heading{
+    margin: 0px;
+    margin-bottom: 8px;
+    font-family: "Roboto";
+}
+.paragraph{
+    margin: 0px;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.bottom-button{
+    text-align: center; 
+}
+
+.btn-color{
+    
+    border-width: 0px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: #ffffff;
+    height: 38px;
+    width: 120px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}

@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(202, 215, 227);
+
+}
+
+.bg-container{
+    height: 70vh;
+    width: 40vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    
+   
+}
+
+.body-content{
+    background-color: #f6c56e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: "Roboto";
+    font-weight: 700;
+    padding: 15px;
+    color: #323f4b;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 30%;
+    
+
+}
+
+
+
+.button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #323f4b;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-weight: 600;
+}

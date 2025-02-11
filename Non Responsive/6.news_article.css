@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(202, 215, 227);
+}
+
+.bg-container{
+    height: 75vh;
+    width: 45vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    
+
+}
+
+.inside-content{
+    background-color: white;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+
+.button{
+    height: 35px;
+    width: 100px;
+    background-color: #323f4b;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 10px;
+    font-size: 10px;
+}
