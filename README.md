@@ -6,3 +6,4 @@
 - **Coding overview template**: [Coding overview Template](https://coding-overview-templates.vercel.app/)
 - **Food order template**: [Food order Template](https://food-order-template.vercel.app/)
 - **Technologies overview template**: [Technologies overview Template](https://technologies-overview-template.vercel.app/)
+- **News article template**: [News article Template](https://news-article-flax.vercel.app/)
