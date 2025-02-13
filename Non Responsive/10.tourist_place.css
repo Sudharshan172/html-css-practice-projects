@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: #0967d219;
+    
+    
+}
+.bg-container{
+    height: 80vh;
+    width: 50vh;
+    border: 2px solid black;
+   
+    
+}
+
+.more-pics{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pics-size{
+    height: 80px;
+    width: 100px;
+}
+
+.videos{
+    display: flex;
+    justify-content: space-evenly;
+}
+.video-size{
+    border-radius: 10px;
+}
+
