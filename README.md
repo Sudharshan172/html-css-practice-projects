@@ -1,6 +1,6 @@
 ## HTML,CSS Practice Projects
 
-### Non Responsive
+### Non Responsive Templates
 - **Todolist Template**: [Todolist Template](https://todolist-template-u4bt.vercel.app/)
 - **Chatbox Template**: [Chatbox Template](https://chatting-page-template.vercel.app/)
 - **Coding overview Template**: [Coding overview Template](https://coding-overview-templates.vercel.app/)
